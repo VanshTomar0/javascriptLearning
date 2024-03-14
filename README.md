@@ -9,3 +9,18 @@
 </p>
 <br>
 <hr>
+<br>
+<h2>2.Business Name Generator</h2>
+<br>
+<p>
+  it generate the business name with the help of function and objects
+</p>
+<br>
+<hr>
+<h2>3.Factorial Program</h2>
+<br>
+<p>
+  it generally give you output as a factorial values
+</p>
+<br>
+<hr>
