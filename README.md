@@ -1,4 +1,4 @@
-#javascript learning
+# javascript learning
 <hr>
 <h2>1.Faulty Calculator</h2>
 <br>
